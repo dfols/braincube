@@ -3,7 +3,7 @@
 ##### Websites
 
 - https://developer.mozilla.org/en-US/
-- 
+- https://rogerdudler.github.io/git-guide/
 - https://www.theodinproject.com/
 - https://stackoverflow.com/
 
